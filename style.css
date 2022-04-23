@@ -1,0 +1,280 @@
+.box{
+	width: 730px;
+	height: 1680px;
+	background: gray;
+	margin-left: 400px;
+}
+.rde{
+	width: 730px;
+	height: 70px;
+	background: gray;
+	display: flex;
+}
+.raf{
+	width: 70px;
+	height: 70px;
+	background-image: url(ii.webp);
+	background-size: 100% 100%;
+	margin-left: 50px;
+
+}
+.one{
+	width: 300px;
+	height: 70px;
+	background-image: url(logo-minecraf.svg);
+	background-size: 100% 100%;
+	margin-left: 80px;
+
+}
+.nomer{
+	width: 250px;
+	height: 70px;
+	background: ;
+	margin-left: 10px;
+}
+.linc{
+	color: green;
+	font-family: Arial;
+	font-size: 20px;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-top: 10px;
+}
+.ter{
+	height: 500px;
+	display: flex;
+	margin-top: 10px;
+}
+.qwe{
+	width: 300px;
+	height: 500px;
+	background: #575757;
+
+}
+.hg{
+	width: 300px;
+	height: 50px;
+	background: #575757;
+}
+.we{
+	width:280px;
+	height:400px;
+	background-image: url(Games_Subnav_Minecraft-228x350.webp);
+	background-size: 100% 100%;
+	margin-left: 10px;
+	margin-top: 5px
+}
+.zxc{
+	width: 400px;
+	height: 500px;
+	background: #575757;
+	margin-left: 20px;
+}
+.war{
+	height: 200px;
+	background: #575757;
+}
+.pot{
+	height: 120px;
+	background:#575757;
+	margin-top: 80px;
+}
+.box2{
+	width: 340px;
+	height: 60px;
+	background: #c2c2c2;
+	margin-left: 30px;
+}
+.ref{
+	width: 340px;
+	height: 100px;
+	margin-top: 30px;
+	margin-left: 30px;
+	background: #c2c2c2;
+}
+.six{
+	width: 730px;
+	height: 500px;
+	display: flex;
+	margin-top: 10px;
+	background: #575757;
+	margin-top: 50px;
+}
+.seven{
+	width: 355px;
+	height: 500px;
+	background: #575757;
+
+}
+.nani{
+	width: 365px;
+	height: 500px;
+	background: #575757;
+	margin-left: 10px;
+}
+.text{
+	width: 300px;
+	height: 200px;
+	background-image: url(fon.png);
+	background-size: 100% 100%;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.the{
+	width: 300px;
+	height: 200px;
+	background-image: url(what.webp);
+	background-size: 100% 100%;
+	margin-left: 25px;
+	margin-top: 40px;
+}
+.asd{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.aer{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.five{
+	color: green;
+	font-family: Arial;
+	font-size: 23px;
+	text-decoration: none;
+	margin-top: 10px;
+}
+.lke{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.rty{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.opr{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.qwert{
+	width: 330px;
+	height: 50px;
+	background: #c2c2c2;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.ins{
+	color: green;
+	font-family: Arial;
+	font-size: 23px;
+	text-decoration: none;
+	margin-top: 10px;
+}
+.ded{
+	width: 730px;
+	height: 160px;
+	margin-top: 30px;
+	background: red;
+	display: flex;
+}
+.lg{
+	width: 180px;
+	height: 160px;
+	background: blue;
+	margin-left: 50px;
+}
+.gp{
+	width: 730px;
+	height: 50px;
+	background: red;
+	margin-top: 15px;
+	display: flex;
+}
+.hp{
+	width: 180px;
+	height: 50px;
+	background: blue;
+	margin-left: 50px;
+}
+.box4{
+	width: 730px;
+	height:200px;
+	background: red;
+	margin-top:5px;
+}
+.box5{
+	width: 730px;
+	height:200px;
+	background: #575757;
+	margin-top:8px;
+	display: flex;
+}
+.box6{
+	width: 730px;
+	height:200px;
+	background: #575757;
+	margin-top:50px;
+	display: flex;
+}
+.box7{
+	width: 730px;
+	height: 40px;
+	background: #575757;
+	margin-top: 5px;
+	display: flex;
+}
+.box8{
+	width: 730px;
+	height: 40px;
+	background: #575757;
+	margin-top: 5px;
+	display: flex;
+}
+.box9{
+	width: 200px;
+	height: 200px;
+	background-image: url(ert.webp);
+	background-size: 100% 100%;
+	margin-left:110px;
+}
+.box20{
+	width: 200px;
+	height: 200px;
+	background-image: url(ghy.webp);
+	background-size: 100% 100%;
+	margin-left:110px;
+}
+.box30{
+	width: 200px;
+	height: 200px;
+	background-image: url(zxc.jpg);
+	background-size: 100% 100%;
+	margin-left:110px;
+}
+.box40{
+	width: 200px;
+	height: 200px;
+	background-image: url(xnj.webp);
+	background-size: 100% 100%;
+	margin-left:110px;
+}
+.box10{
+	width: 200px;
+	height: 40px;
+	background: #c2c2c2;
+	margin-left: 110px;
+}
